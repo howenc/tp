@@ -9,7 +9,8 @@ OutBook is a desktop personal secretary application used for saving contacts and
 
 My contributions to the project are listed below.
 
-- **New Feature**:
+- **New Feature**: Added the ability to undo/redo previous commands.
+
   - Add UI for showing meeting instance
   - New Commands + Test cases
     - "addm"
@@ -25,7 +26,6 @@ My contributions to the project are listed below.
 
   - Forking workflow
     - Review and merge pull requests
-  - Ensuring deliverables are done on time
 
 - **Enhancements to existing features**:
 
@@ -34,8 +34,6 @@ My contributions to the project are listed below.
 - **Documentation**:
 
   - Updated README
-  - Added `findm` in UG and DG
-  - Updated Model, Storage and UI is DG
 
 - **Community**:
 
@@ -43,4 +41,4 @@ My contributions to the project are listed below.
 
 - **Tools**:
 
-  - UMlet (UML modeling software)
+  - to be added soon

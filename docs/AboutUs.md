@@ -14,10 +14,8 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](https://github.com/howenc)]
 [[portfolio](team/howenc.md)]
 
-* Role: Project Lead
-* Responsibilities:
-  * Organizes tasks and coordination between team members
-  * Ensures deliverables are done on time
+* Role: Developer
+* Responsibilities: In charge of code quality and overall coordination
 
 ### Huang Jia Can (Jason)
 
