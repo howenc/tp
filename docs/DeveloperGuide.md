@@ -20,7 +20,7 @@ title: OutBook Developer Guide
   - [Find meeting feature](#find-meeting-feature)
   - [Add attendee feature](#add-attendee-feature)
   - [Remove attendee feature](#remove-attendee-feature)
-  - [Keeping track of last meeting with contact](#keeping-track-of-last-meeting-with-contact)
+  - [Last Contacted Time feature](#last-contacted-time-feature)
 - [Planned Enhancements](#planned-enhancements)
   - [\[Proposed\] Undo/redo feature](#proposed-undo-and-redo-feature)
   - [\[Feature Flaw\] View Commands](#feature-flaw-view-commands)
@@ -440,7 +440,7 @@ The list of valid statuses is stored as an `Enumeration` object for the followin
 - Readability: e.g. `StatusList.NIL` is self-explanatory and easier to understand than something like `StatusList[0]` if an index data structure were to be used.
 - Maintainability: If the list of valid statuses changes or expands in the future, it's much easier to update an enumeration. This centralizes the changes in one place, making the code more maintainable compared to scattered string constants.
 
-`Status` is implemented and utilized in a similar manner to [`LastContactedTime`](#keeping-track-of-last-meeting-with-contact).
+`Status` is implemented and utilized in a similar manner to [`LastContactedTime`](#last-contacted-time-feature).
 
 <div style="page-break-after: always;"></div>
 
