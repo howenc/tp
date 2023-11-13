@@ -910,7 +910,7 @@ Deleting a person while the list of persons is filtered.
 
 <div style="page-break-after: always;"></div>
 
-### View Contact
+### Viewing a Contact
 
 View contact
 
